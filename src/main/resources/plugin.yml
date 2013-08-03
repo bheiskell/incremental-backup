@@ -1,0 +1,4 @@
+name: IncrementalBackup
+main: org.xdxa.backup.BackupPlugin
+version: ${version}
+commands: [ ]
